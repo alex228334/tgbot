@@ -1,0 +1,1 @@
+worker: BOT @lipina92.py
